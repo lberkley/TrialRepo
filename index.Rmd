@@ -1,5 +1,5 @@
 ---
-title: "Web Page Setup"
+title: "Web page set up"
 output: html_document
 ---
 
